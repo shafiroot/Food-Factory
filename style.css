@@ -1,0 +1,83 @@
+h1{
+font-size: 70px;
+}
+h2{
+    font-size: 40px;
+    }
+    h3{
+        font-size: 40PX;
+        text-align: center;
+    }
+    h4{
+        font-size: 30PX;
+        
+    }
+    h5{
+        font-size: 40px;
+    }
+p{
+    font-size: 20px;
+}
+.txt-align{
+    text-align: center;
+}
+.orng-clor{
+    color: orange;
+}
+body{
+    font-family: 'Merriweather', serif;
+}
+.sec-divide{
+    display: flex;
+    
+}
+.width-percent{
+    width: 50%;
+    padding-left: 5%;
+}
+.other-page{
+    text-decoration: none;
+    background-image: linear-gradient(hsl(39, 81%, 48%),tomato);
+    font-weight: 700;
+    color: white;
+    padding: 15px 60px;
+    border-radius: 40px;
+}
+.mid-bannar{
+    background-image: url(images/shapes/Frame\ 57.jpg);
+    background-repeat: no-repeat;
+}
+.width-percent-three{
+    width: 33%;
+}
+.experience-item{
+    width: 60%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 20px;
+    border-radius: 20px;
+    box-shadow: 10px 10px 10px grey;
+}
+.footer-set{
+    background-color: black;
+    color: rgb(55, 0, 255);
+    text-align: center;
+}
+#spn{
+    color: chartreuse;
+}
+
+.social-media{
+    background-color: rgb(226, 214, 214);
+    display: flex;
+    border-radius: 40px;
+    background-color: rgb(180, 151, 151);
+    margin: 5%;
+    
+}
+.social{
+    background-color: rgb(236, 234, 234);
+    width: 33%;
+    padding-left: 10%;
+    margin: O;
+}
